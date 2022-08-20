@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Ojas Khatri@vo1d-7bin
+- 👋 Hi, I’m void i make stuff that nobody uses
 - 👀 I’m interested in linux devops
 - 🌱 I’m currently learning Networking and Linux
 - 📫 How to reach me email- ojaskhatri2001@gmail.com
