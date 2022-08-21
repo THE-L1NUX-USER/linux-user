@@ -1,7 +1,7 @@
 - 👋 Hi, I’m void i make stuff that nobody uses
 - 👀 I’m interested in linux devops
 - 🌱 I’m currently learning Networking and Linux
-- 📫 How to reach me 
+- 📫 How to reach me - ojaskhatri2001@gmail.com
 
 <!---
 vo1d-7bin/vo1d-7bin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
